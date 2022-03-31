@@ -2,7 +2,7 @@
 
 30 Days Of JavaScript: Day-30 / Final Projects / 2
 
-Live => https://world-countries-list-ferokca.netlify.app
+Live => https://validating-web-forms-ferokca.netlify.app
 
 **EXERCİSE 2 = Create the following animation using (HTML, CSS, JS)**
 
